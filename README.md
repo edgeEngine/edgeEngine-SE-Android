@@ -7,7 +7,7 @@ new update is coming soon
  
  [sign up and create a mimik developer console account](https://developer.mimik.com/console/create_account)
  
- [get started with mimik](https://developer.mimik.com/get-started-with-edgeengine/)
+ [Complete the get started with mimik hands-on lab](https://developer.mimik.com/get-started-with-edgeengine/)
  
 ## Community & Support  
 
