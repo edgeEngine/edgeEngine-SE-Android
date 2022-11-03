@@ -13,5 +13,3 @@ new update is coming soon
 
 Contact the developer support team @ devcommunity.support@mimik.com
 
-Ask questions and share your ideas at [edgeEngine-SE-community-page](https://github.com/edgeEngine/edgeEngine-SE-Android)
-
