@@ -1,12 +1,6 @@
 # edgeEngine-SE-Android
 new update is coming soon 
 
-## Community & Support  
-
-Contact the developer support team @ devcommunity.support@mimik.com
-
-[mimik-community](https://github.com/edgeEngine/edgeEngine-SE-Android)
-
 ## Before you get started 
 
  [explore develoepr-doccumentation](developer.mimik.com)
@@ -19,4 +13,5 @@ Contact the developer support team @ devcommunity.support@mimik.com
 
 Contact the developer support team @ devcommunity.support@mimik.com
 
-[mimik-community](https://github.com/edgeEngine/edgeEngine-SE-Android)
+Ask questions and share your ideas at [edgeEngine-SE-community-page](https://github.com/edgeEngine/edgeEngine-SE-Android)
+
