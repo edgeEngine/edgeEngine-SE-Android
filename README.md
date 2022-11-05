@@ -39,19 +39,20 @@ EdgeMobileClient library can help you interact with mimik edgeEngine framework w
 ```
 Android SDK 26 (Android OS 8.0)
 ```
-​
+
 ## Before you start
-​
+
 [Explore developer-documentation](developer.mimik.com)
-​
+
+
 [Sign up and create a mimik developer console account](https://developer.mimik.com/console/create_account)
-​
+
 ## Download 
-​
+
 To include EdgeMobileClient in your project:
-​
+
 Gradle:
-​
+
 ```
 allprojects {
     repositories {
@@ -61,28 +62,28 @@ allprojects {
     }
 }
 ```
-​
+
 ```
 dependencies {
     implementation 'com.mimik.edgesdk-android-client:edgemobileclient-core:0.2.1'
 }
 ```
-​
+
 ## Tutorial
-​
+
 Visit this [tutorial](https://devdocs.mimik.com/tutorials/04-index) to learn more about the mimik client library and how to integrate it into your Android project.
-​
+
 ## Author
-​
+
 mimik
 ```
 https://mimik.com/
 ```
  
 ## Community & Support  
-​
+
 Contact the developer support team @ devcommunity.support@mimik.com
-​
+
 ## License
-​
+
 The aforementioned mimik client and service libraries are available under the MIT license. See the LICENSE file for more information.
