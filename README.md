@@ -4,13 +4,14 @@
 
 ## Before you start  
 
-
  [explore the developer resources & documentation](https://developer.mimik.com)
  
  [sign up and create a mimik developer console account](https://developer.mimik.com/console/create_account)
-​
+
+## About 
+
 EdgeMobileClient library can help you interact with mimik edgeEngine framework with the following APIs:
-​
+
  * `startEdge`
  * `startEdgeSynchronously`
  * `stopEdge`
