@@ -48,12 +48,6 @@ EdgeMobileClient library can help you interact with mimik edgeEngine framework w
 Android SDK 26 (Android OS 8.0)
 ```
 
-## Before you start
-
-[Explore developer-documentation](developer.mimik.com)
-
-
-[Sign up and create a mimik developer console account](https://developer.mimik.com/console/create_account)
 
 ## Download 
 
