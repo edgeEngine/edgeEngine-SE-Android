@@ -4,9 +4,9 @@
 
 ## Before you start  
 
- [explore the developer resources & documentation](https://developer.mimik.com)
+ [Explore the developer resources & documentation](https://developer.mimik.com)
  
- [sign up and create a mimik developer console account](https://developer.mimik.com/console/create_account)
+ [Sign up and create a mimik developer console account](https://developer.mimik.com/console/create_account)
 
 ## About 
 
