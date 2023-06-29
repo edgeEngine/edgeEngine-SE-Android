@@ -67,7 +67,7 @@ allprojects {
 
 ```
 dependencies {
-    implementation 'com.mimik.edgesdk-android-client:edgemobileclient-core:0.3.8.2'
+    implementation 'com.mimik.edgesdk-android-client:edgemobileclient-core:0.3.8.3'
 }
 ```
 
